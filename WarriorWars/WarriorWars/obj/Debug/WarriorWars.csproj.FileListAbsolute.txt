@@ -1,0 +1,7 @@
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe.config
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\bin\Debug\WarriorWars.pdb
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\obj\Debug\WarriorWars.csprojResolveAssemblyReference.cache
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\obj\Debug\WarriorWars.csproj.CoreCompileInputs.cache
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\obj\Debug\WarriorWars.exe
+c:\users\john nauman\source\repos\WarriorWars\WarriorWars\obj\Debug\WarriorWars.pdb
